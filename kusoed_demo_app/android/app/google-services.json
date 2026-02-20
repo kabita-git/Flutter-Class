@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "658944625072",
+    "project_id": "scrms-8a67b",
+    "storage_bucket": "scrms-8a67b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658944625072:android:55dfbf48058c0225892e75",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7lnxC8iRvWuQmgoF5YLzu4gqo5P5nSeM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658944625072:android:f8722a22b0458c84892e75",
+        "android_client_info": {
+          "package_name": "com.btech.complainRegistration"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7lnxC8iRvWuQmgoF5YLzu4gqo5P5nSeM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658944625072:android:278365a1542d19f6892e75",
+        "android_client_info": {
+          "package_name": "com.example.kusoed_demo_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7lnxC8iRvWuQmgoF5YLzu4gqo5P5nSeM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
